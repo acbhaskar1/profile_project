@@ -1,0 +1,8 @@
+export const GET_PROFILES = 'GET_PROFILES';
+export const ADD_PROFILE = 'ADD_PROFILE';
+export const DELETE_PROFILE = 'DELETE_PROFILE';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const CLEAR_PROFILES = 'CLEAR_PROFILES';
